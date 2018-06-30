@@ -43,7 +43,6 @@ RIGHT
 ```
 
 ### Explanation
-
 MegaMaid's next move would be to move RIGHT, resulting in the following next state:
 ```
 -b--d
